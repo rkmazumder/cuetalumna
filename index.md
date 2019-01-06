@@ -3,7 +3,7 @@ title: CUET Alumni North America
 feature_text: |
   ## Chittagong University of Engineering and Technology (CUET) Alumni Association, USA, Inc.
   A Website for CUET Alumni in North America
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: ""/assets/header_unsplash_12.jpg""
 excerpt: "Chittagong University of Engineering and Technology (CUET) Alumni Association, USA, Inc."
 ---
 
