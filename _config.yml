@@ -76,7 +76,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "CUET Alumni North America" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/cuetalumna/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Website of the Chittagong University of Engineering and Technology (CUET) Alumni Association, USA, Inc." # Site description and default description, also used in jekyll-seo-tag
 url: 'https://rkmazumder.github.io' # Site url, also used in jekyll-seo-tag
 baseurl: "cuetalumna"
