@@ -1,9 +1,6 @@
 ---
-title: Elements
-feature_text: |
-  Mission of CUET Alumni 
+title: Mission of CUET Alumni
 feature_image: "https://picsum.photos/2560/600?image=867"
-excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
