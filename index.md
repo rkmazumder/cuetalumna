@@ -35,5 +35,3 @@ President: Golam Reasat Sobhan
 President-Elect: Soaib A Chowdhury
 General Secretary: Md. A. Hashem
 Treasurer: Mozammel Hoque
-
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?}
