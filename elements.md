@@ -1,16 +1,16 @@
 ---
 title: Elements
 feature_text: |
-  A demo of Markdown and HTML includes
+  Mission of CUET Alumni 
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
 ## Mission
-The American Association of Bangladeshi Engineers and Architects shall be a non-profit, non-political, and non-religious voluntary engineering and architectural professional organization organized exclusively for educational, scientific, cultural, and charitable programs. The aims and objectives of the AABEA are: 
+Chittagong University of Engineering and Technology (CUET) Alumni Association, USA, Inc. is a non-profit, non-political, and non-religious voluntary engineering and architectural professional organization organized exclusively for educational, scientific, cultural, and charitable programs. The aims and objectives of the association are: 
 
-- To bring together and share ideas, technology, and experiences between engineering and architectural professionals of Bangladesh and North America. 
+- To bring together and share ideas, technology, and experiences of CUET alumni at North America. 
 - To work towards the advancement of engineering and architectural professions in Bangladesh. 
 - To work towards the advancement of engineering and architectural professions of Bangladeshis in North America. 
 - To provide assistance in job search and career enhancement for its members and affiliates. 
