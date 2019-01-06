@@ -90,10 +90,10 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site navigation
 navigation_header:
-  Home: /
-  Elements: /cuetalumna/elements/
-  Blog: /cuetalumna/blog/
-  Categories: /cuetalumna/categories/
+  Home: /cuetalumna/
+  Elements: /elements/
+  Blog: /blog/
+  Categories: /categories/
 
 navigation_footer:
   Created by R K Mazumder
