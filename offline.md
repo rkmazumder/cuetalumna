@@ -1,9 +1,12 @@
 ---
-title: Looks like you're offline
-indexing: false
-sitemap: false
+title: Executive
+feature_text: |
+  Executive Committee 2017-18
+feature_image: "https://picsum.photos/2560/600?image=897"
+aside: true
 ---
-
-It appears that you've lost your network connection and this document doesn't exist on your device.
-
-Try either returning to the previous page, using the navigation to find your way back, or restore your network connection.
+## Executive Committee 2017-18
+President: Golam Reasat Sobhan
+President-Elect: Soaib A Chowdhury
+General Secretary: Md. A. Hashem
+Treasurer: Mozammel Hoque
