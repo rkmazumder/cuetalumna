@@ -92,7 +92,7 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 navigation_header:
   Home: 
   Mission: /elements/
-  Executive: /blog/
+  Executive: /offline/
   Contact Us: /categories/
 
 navigation_footer:
