@@ -76,14 +76,14 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "CUET Alumni North America" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/cuetalumna/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Website of the Chittagong University of Engineering and Technology (CUET) Alumni Association, USA, Inc." # Site description and default description, also used in jekyll-seo-tag
 url: 'https://rkmazumder.github.io' # Site url, also used in jekyll-seo-tag
 baseurl: "cuetalumna"
 repo: "https://github.com/rkmazumder/cuetalumna/"
 email: "cuet.alumni.usa@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
-avatarurl: "/cuetalumna/assets/logo.svg" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
+avatarurl: # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 # google_analytics: ''
 # service_worker: false # Will turn off the service worker if set to false
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
