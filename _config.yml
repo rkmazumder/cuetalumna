@@ -89,11 +89,11 @@ avatarurl: "/assets/CUET Logo.png" # Uses avatars for favicons to get multple si
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # 8. Site navigation
-navigation_header:
+navigation_header: rkmazumder.github.io/cuetalumna
   Home: /cuetalumna/
-  Elements: /elements/
-  Blog: /blog/
-  Categories: /categories/
+  Mission: /cuetalumna/elements/
+  Executive: /cuetalumna/blog/
+  Contact Us: /cuetalumna/categories/
 
 navigation_footer:
   Created by R K Mazumder
