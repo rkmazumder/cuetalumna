@@ -3,13 +3,11 @@ title: CUET Alumni North America
 feature_text: |
   ## Chittagong University of Engineering and Technology (CUET) Alumni Association, USA, Inc.
   A Website for CUET Alumni in North America
-feature_image: ""/assets/header_unsplash_12.jpg""
+feature_image: "/assets/header_unsplash_12.jpg"
 excerpt: "Chittagong University of Engineering and Technology (CUET) Alumni Association, USA, Inc."
 ---
 
 Chittagong University of Engineering and Technology (CUET) Alumni Association, USA, Inc. is s a non-profit, non-political, and non-religious Tax-exempt voluntary scientific and technical professional organization organized exclusively for educational, scientific, and charitable programs since 2013and registered in the State of New York. The mission of the organization is to provide services to its members as well as greater Bangladeshi community in various areas in North America.  All services provided under the auspices of CUETAAUSA are funded from generous contributions by its members and other community members.
-
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Tip me $5 💸" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
 
 ## Some of the services that CUETAAUSA has provided during last few years are:
 
@@ -37,3 +35,5 @@ President: Golam Reasat Sobhan
 President-Elect: Soaib A Chowdhury
 General Secretary: Md. A. Hashem
 Treasurer: Mozammel Hoque
+
+{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Tip me $5 💸" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
