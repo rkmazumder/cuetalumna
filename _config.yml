@@ -80,7 +80,7 @@ logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
 url: "https://https://rkmazumder.github.io/cuetalumna/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/rkmazumder/cuetalumna"
+repo: "https://github.com/rkmazumder/cuetalumna/"
 email: "cuet.alumni.usa@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 avatarurl: "/assets/CUET Logo.png" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
@@ -96,7 +96,7 @@ navigation_header:
   Categories: /categories/
 
 navigation_footer:
-  Created by David Darnes: https://darn.es
+  Created by R K Mazumder
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
