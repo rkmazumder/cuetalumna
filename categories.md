@@ -1,7 +1,6 @@
 ---
 title: Contact Us
-layout: categories
-excerpt: "Category index"
+feature_image: "https://picsum.photos/2560/600?image=304"
 aside: true
 ---
 ## President
